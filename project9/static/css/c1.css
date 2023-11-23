@@ -1,0 +1,18 @@
+h1{
+    background-color: pink;
+    color: purple;
+    display:inline;
+}
+button{
+    color: #faebd7;
+    background-color: rgb(106, 68, 68);
+    margin-top: 20px;
+    height: 20px;
+    width:100px ;
+    border-radius: 7px;
+}
+img{
+    display: block;
+    margin-top: 20px;
+    
+}
